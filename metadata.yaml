@@ -1,0 +1,28 @@
+_repo: Andersonville-diary-b-escape-and-list-of-the-dead-with-name-co-regiment-date-of-death-and-no-__71609
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ransom, John L.
+    gutenberg_agent_id: '56302'
+    url: http://www.gutenberg.org/2009/agents/56302
+description: ''
+gutenberg_issued: '2023-09-10'
+identifiers:
+  gutenberg: '71609'
+language: en
+pgterms:marc904: https://archive.org/details/andersonvilledia01rans
+pgterms:marc905: 20190729191850ransom
+pgterms:marc906: '1881'
+pgterms:marc907: US
+production_note: MWS, John Campbell and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aAuburn N. Y. :$bJohn L. Ransom, $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Andersonville diary : $b escape, and list of the dead, with name, co., regiment,
+  date of death and no. of grave in cemetery'
+url: http://www.gutenberg.org/ebooks/71609
