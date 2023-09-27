@@ -1,11 +1,16 @@
 _repo: Andersonville-diary-b-escape-and-list-of-the-dead-with-name-co-regiment-date-of-death-and-no-__71609
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71609-h/images/cover.jpg
 creator:
   author:
     agent_name: Ransom, John L.
     gutenberg_agent_id: '56302'
     url: http://www.gutenberg.org/2009/agents/56302
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71609#Andersonville-diary-b-escape-and-list-of-the-dead-with-name-co-regiment-date-of-death-and-no-_
 gutenberg_issued: '2023-09-10'
 identifiers:
   gutenberg: '71609'
